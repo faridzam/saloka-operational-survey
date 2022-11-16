@@ -99,7 +99,7 @@ class Finished extends React.Component{
                             style={{
                                 textAlign: 'center',
                                 color: 'white'
-                            }}>Terimakasih, </p>
+                            }}>Terimakasih,&nbsp;</p>
                             <p
                             style={{
                                 textAlign: 'center',
